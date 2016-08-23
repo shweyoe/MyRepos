@@ -7,6 +7,7 @@ public class main {
 		for(int i:num){
 			sum+=i;
 		}
+		
 		System.out.println("Total sum is"+sum);
 	}
 
